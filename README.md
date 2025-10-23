@@ -14,7 +14,41 @@ My name is Haoling, and I’m a first year master student in MS in Artificial In
 
 
 
-## 💻 Featured Projects
+## 💻 I worked at ....
+
+### 🚗 WeRide - RiderBoard Platform
+**WeRide (Autonomous Driving) | Software Engineer Intern**  
+*Summer 2024*
+
+Internal ML infrastructure platform for 100+ engineers monitoring distributed training experiments.
+
+#### 🎯 Problem → Solution
+
+**Challenge:** ML engineers faced 12-second TensorBoard cold starts, manual log path re-entry, and hours debugging GPU network failures.
+
+**My Solutions:**
+
+**🏊 Warming Pool System**
+- Built pre-warmed Knative service pool with symlink-based resource mapping
+- **Impact:** Reduced startup latency **12s → 1.5s** (88% improvement)
+
+**💾 Data Persistence Layer**
+- Designed PostgreSQL-backed instance history with tagging/filtering API
+- **Impact:** Zero manual re-entry - instant access to all user instances
+
+**🔍 WeNet Health Monitor**
+- Automated DaemonSet monitoring GPU node connectivity with Prometheus + Grafana
+- Optimized O(n²) testing with goroutine parallelization
+- **Impact:** Replaced hours of manual NCCL debugging with real-time dashboards
+
+#### 📈 Impact
+✅ **100+ ML engineers** use daily  
+✅ **88% faster** TensorBoard access  
+✅ **Real-time network monitoring** vs. hours of manual debugging
+
+**Tech:** Go, Python, Kubernetes, Knative, PostgreSQL, Prometheus, Grafana, RDMA
+
+---
 
 ### 🔬 TAF: Translation by Anticipating Future
 **CMU Research Project | Professor Li's Lab**  
