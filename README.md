@@ -19,7 +19,6 @@ My name is Haoling, and I’m a first year master student in MS in Artificial In
 ### 🔬 TAF: Translation by Anticipating Future
 **CMU Research Project | Professor Li's Lab**  
 🔗 [View Repository](https://github.com/HaolingPu/Simultaneous-Machine-Translation-TAF-)  
-📄 [Read Paper](https://arxiv.org/abs/2410.22499)
 
 A novel simultaneous machine translation method using LLM to predict future source words.
 
