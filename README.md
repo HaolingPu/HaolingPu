@@ -29,8 +29,6 @@ Internal ML infrastructure platform for 100+ engineers monitoring distributed tr
 **My Solutions:**
 
 **🏊 Warming Pool System**
-<img width="1000" height="310" alt="image" src="https://github.com/user-attachments/assets/7ea3e4ff-c534-4130-8fee-a0ba1b6584b2" />
-
 - Built pre-warmed Knative service pool with symlink-based resource mapping
 - **Impact:** Reduced startup latency **12s → 1.5s** (88% improvement)
 
