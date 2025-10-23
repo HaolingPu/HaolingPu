@@ -3,12 +3,11 @@
 My name is Haoling, and I’m a first year master student in MS in Artificial Intelligence and Innovation @ Carnegie Mellon University (2025-2027)
 🌱 I’m currently looking for a 2026 summer SDE/MLE internship
 
-## 🔬 Current Research
+### 🔬 Current Research
 - Building state-of-the-art Simultaneous Machine Translation at CMU Professor [Li's Lab](https://leililab.github.io/).
 
   
-- 💬 Ask me about ...
-How to reach me:
+###💬 Happy to connect!
 - 📫 Email: haolingp@andrew.cmu.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/haoling-pu/)
 
