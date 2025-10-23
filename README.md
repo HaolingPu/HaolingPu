@@ -12,7 +12,7 @@ My name is Haoling, and I’m a first year master student in MS in Artificial In
 - 📫 Email: haolingp@andrew.cmu.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/haoling-pu/)
 
-
+---
 
 ## 💻 I worked at ....
 
