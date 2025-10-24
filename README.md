@@ -16,7 +16,7 @@ My name is Haoling, and I’m a first year master student in MS in Artificial In
 
 ## 💻 I worked at ....
 
-### 🚗 WeRide - RiderBoard Platform
+### 🚗 WeRide - Deep Learning Platform
 **WeRide (Autonomous Driving) | Software Engineer Intern**  
 *Summer 2024*
 
