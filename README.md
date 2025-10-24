@@ -14,6 +14,22 @@ My name is Haoling, and I’m a first year master student in MS in Artificial In
 
 ---
 
+## 💻 I currently working at .... 
+
+### 🔬 TAF: Translation by Anticipating Future
+**CMU Research Project | Professor Li's Lab**  
+🔗 [View Repository](https://github.com/HaolingPu/Simultaneous-Machine-Translation-TAF-)  
+
+A novel simultaneous machine translation method using LLM to predict future source words.
+
+**My Contributions:**
+- Implemented LLM-based future word prediction module
+- Developed opportunistic translation strategy
+- Conducted experiments achieving up to 5 BLEU improvement
+
+**Tech Stack** PyTorch, Fairseq, Transformers, Python
+
+
 ## 💻 I worked at ....
 
 ### 🚗 WeRide - Deep Learning Platform
@@ -47,21 +63,6 @@ Internal ML infrastructure platform for 100+ engineers monitoring distributed tr
 ✅ **Real-time network monitoring** vs. hours of manual debugging
 
 **Tech:** Go, Python, Kubernetes, Knative, PostgreSQL, Prometheus, Grafana, RDMA
-
----
-
-### 🔬 TAF: Translation by Anticipating Future
-**CMU Research Project | Professor Li's Lab**  
-🔗 [View Repository](https://github.com/HaolingPu/Simultaneous-Machine-Translation-TAF-)  
-
-A novel simultaneous machine translation method using LLM to predict future source words.
-
-**My Contributions:**
-- Implemented LLM-based future word prediction module
-- Developed opportunistic translation strategy
-- Conducted experiments achieving up to 5 BLEU improvement
-
-**Tech Stack** PyTorch, Fairseq, Transformers, Python
 
 ---
 ### 🏥 VIP Partners - Maternal Digital Platform
