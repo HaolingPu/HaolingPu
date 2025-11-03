@@ -87,6 +87,8 @@ HIPAA-compliant AI-powered prenatal care platform for expectant mothers and nurs
 
 **Tech:** Python, Flask, React, TypeScript, Deepseek-V3, RAG, n8n, Redis, Oracle, Docker
 
+
+Lots of new projects are under development!
 <!--
 **HaolingPu/HaolingPu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
