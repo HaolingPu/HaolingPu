@@ -6,7 +6,6 @@ My name is Haoling, and I’m a first year master student in MS in Artificial In
 ### 🏫 Current Work
 - 🔬 Building state-of-the-art Simultaneous Machine Translation at CMU Professor [Li's Lab](https://leililab.github.io/).
 - 📖 Taking Machine Learning Courses like Deep Learning, Natural Language Processing, Multimodel Models, and Large Language Models...
-- Try to be better!
   
 ### 💬 Happy to connect!
 - 📫 Email: haolingp@andrew.cmu.edu
