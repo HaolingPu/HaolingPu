@@ -26,7 +26,7 @@ A novel simultaneous machine translation method using LLM to predict future sour
 - Developed opportunistic translation strategy
 - Conducted experiments achieving up to 5 BLEU improvement
 
-**Tech Stack** PyTorch, Fairseq, Transformers, Python
+**Tech Stack** PyTorch, Fairseq, Transformers, Python, Vllm, Qwen-30B, Slurm
 
 
 ## 💻 I worked at ....
