@@ -1,39 +1,33 @@
-# Haoling Pu
+# Hi, I'm Haoling
 
-**MS in Artificial Intelligence and Innovation, Carnegie Mellon University** · 2025–2027 · Pittsburgh, PA
+MS in Artificial Intelligence and Innovation at **Carnegie Mellon University** (2025–2027).
 
-I'm interested in what it takes to make language models work under real constraints — latency
-budgets, partial input, limited context. At the moment that means research on simultaneous
-machine translation: getting a model to start translating before the speaker has finished the
-sentence. Before CMU I worked mostly on ML infrastructure, which is where I learned how much
-of an AI system is really plumbing.
+I like building things that make language models actually usable: fast, grounded, and running in production rather than only in a notebook. Right now I split my time between research at CMU and getting ready for what's next.
 
 Open to full-time SDE / MLE roles starting 2027.
 
 ### Now
 
-**Simultaneous machine translation** · [Prof. Lei Li's Lab](https://leililab.github.io/), CMU
-Building [TAF](https://github.com/HaolingPu/Simultaneous-Machine-Translation-TAF-) (Translation by
-Anticipating Future) — the model predicts likely future source words with an LLM and commits to a
-translation only when the prediction is stable. Up to 5 BLEU over comparable latency baselines.
+<img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" height="16" alt="CMU" /> &nbsp;Working on simultaneous machine translation in [Prof. Lei Li's lab](https://leililab.github.io/) at CMU
 
-**Coursework** · deep learning, natural language processing, multimodal models, large language models.
+### Before
 
-### Before that
+<img src="https://www.google.com/s2/favicons?domain=google.com&sz=64" height="16" alt="Google" /> &nbsp;**Google** · Software engineering intern · Summer 2026<br>
+<img src="https://www.google.com/s2/favicons?domain=weride.ai&sz=64" height="16" alt="WeRide" /> &nbsp;**WeRide** · Software engineering intern, ML platform · Summer 2025<br>
+<img src="https://www.google.com/s2/favicons?domain=aviagesystems.com&sz=64" height="16" alt="Aviage Systems" /> &nbsp;**Aviage Systems** · Software engineering intern · Summer 2024<br>
+<img src="https://www.google.com/s2/favicons?domain=umich.edu&sz=64" height="16" alt="University of Michigan" /> &nbsp;**University of Michigan School of Nursing** · Full-stack & ML intern
 
-- **Google** — Software engineering intern, summer 2026. An internal knowledge system: a nightly
-  pipeline that turns team docs and code into a wiki, an assistant that answers from it with
-  citations, and a weekly pass that repairs what drifts.
-- **WeRide** — Software engineering intern, summer 2024. Internal ML platform for distributed
-  training: faster experiment tooling and GPU network health monitoring, used daily by the
-  training teams.
-- **University of Michigan School of Nursing** — Full-stack and ML intern. A prenatal care
-  platform with retrieval-based Q&A over clinical guidelines.
+### Tools
 
-### Usually working in
+<img src="https://skillicons.dev/icons?i=python,pytorch,go,kubernetes,docker,postgres,redis,react&theme=light" height="36" alt="Python, PyTorch, Go, Kubernetes, Docker, PostgreSQL, Redis, React" />
 
-Python, PyTorch, Go · Transformers, vLLM, Fairseq · Kubernetes, Docker, Slurm · PostgreSQL, Redis
+### Off the keyboard
 
-### Elsewhere
+🏋️ working out &nbsp;·&nbsp; 🏀 basketball &nbsp;·&nbsp; 🎱 pool
 
-[haolingp@andrew.cmu.edu](mailto:haolingp@andrew.cmu.edu) · [LinkedIn](https://www.linkedin.com/in/haoling-pu/)
+### Say hi
+
+<a href="https://www.linkedin.com/in/haoling-pu/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:haolingp@andrew.cmu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" /></a>
+
+haolingp@andrew.cmu.edu
