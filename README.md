@@ -14,13 +14,10 @@ Open to full-time SDE / MLE roles starting 2027.
 <img src="https://www.google.com/s2/favicons?domain=umich.edu&sz=64" height="16" alt="University of Michigan" /> &nbsp;**University of Michigan School of Nursing** · Full-stack & ML intern · Summer 2024<br>
 **Aviage Systems** · Software engineering intern · Summer 2023
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,go,kubernetes,docker,postgres,redis,react&theme=light" height="36" alt="Python, PyTorch, Go, Kubernetes, Docker, PostgreSQL, Redis, React" />
-
 ### Off the keyboard
 
 🏋️ working out &nbsp;·&nbsp; 🏀 basketball &nbsp;·&nbsp; 🎱 pool
+
 
 ### Say hi
 
@@ -28,3 +25,7 @@ Open to full-time SDE / MLE roles starting 2027.
 <a href="mailto:haolingp@andrew.cmu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" /></a>
 
 haolingp@andrew.cmu.edu
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,go,kubernetes,docker,postgres,redis,react&theme=light" height="36" alt="Python, PyTorch, Go, Kubernetes, Docker, PostgreSQL, Redis, React" />
