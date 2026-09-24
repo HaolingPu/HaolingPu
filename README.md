@@ -8,7 +8,7 @@ Open to full-time SDE / MLE roles starting 2027.
 
 ### My Work
 
-<img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" height="16" alt="CMU" /> &nbsp;Working on simultaneous machine translation in [Prof. Lei Li's lab](https://leililab.github.io/) at CMU
+<img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" height="16" alt="CMU" /> &nbsp;Working on simultaneous machine translation in [Prof. Lei Li's lab](https://leililab.github.io/) at CMU<br>
 <img src="https://www.google.com/s2/favicons?domain=google.com&sz=64" height="16" alt="Google" /> &nbsp;**Google** · Software engineering intern · Summer 2026<br>
 <img src="https://www.google.com/s2/favicons?domain=weride.ai&sz=64" height="16" alt="WeRide" /> &nbsp;**WeRide** · Software engineering intern, ML platform · Summer 2025<br>
 <img src="https://www.google.com/s2/favicons?domain=umich.edu&sz=64" height="16" alt="University of Michigan" /> &nbsp;**University of Michigan School of Nursing** · Full-stack & ML intern · Summer 2024<br>
